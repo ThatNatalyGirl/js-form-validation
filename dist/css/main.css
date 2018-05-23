@@ -126,4 +126,12 @@ header h1 {
 	background: #90aca1;
 }
 
+.pass {
+	border: 5px solid green;
+}
+
+.fail {
+	border: 5px solid red;
+}
+
 /*# sourceMappingURL=main.css.map */
